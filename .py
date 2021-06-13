@@ -1,1 +1,1 @@
-Printed("hello")
+Printf("hello")
